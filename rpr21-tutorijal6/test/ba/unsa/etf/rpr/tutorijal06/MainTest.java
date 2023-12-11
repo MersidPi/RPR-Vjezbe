@@ -1,4 +1,4 @@
-package ba.unsa.etf.rpr.tutorijal06;
+package com.example.rpr21tutorijal6;
 
 import static org.junit.jupiter.api.Assertions.*;
 
